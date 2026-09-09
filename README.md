@@ -8,7 +8,7 @@ A short description of what this project does and who its for.
 
 steps to install and run the project.
 
-## usuage
+## Usage
 
 Examples on how to use the project
 
